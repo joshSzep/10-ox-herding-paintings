@@ -1,0 +1,21 @@
+.image-deck,
+.slidev-layout {
+  background: #0f0f0f;
+}
+
+.slidev-layout {
+  padding: 0;
+}
+
+.slidev-layout > div {
+  width: 100%;
+  height: 100%;
+}
+
+.full-slide-image {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  background: #0f0f0f;
+}

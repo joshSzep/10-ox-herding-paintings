@@ -1,0 +1,15 @@
+{
+  "name": "ten-ox-herding-paintings-slidev",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "CHOKIDAR_USEPOLLING=1 slidev --open",
+    "present": "CHOKIDAR_USEPOLLING=1 slidev",
+    "build": "slidev build"
+  },
+  "devDependencies": {
+    "@slidev/cli": "^52.2.1",
+    "@slidev/theme-default": "^0.25.0"
+  }
+}

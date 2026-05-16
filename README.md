@@ -1,4 +1,29 @@
-# Ten Ox-Herding Pictures Slide Images
+# Ten Ox-Herding Pictures Slidev Deck
+
+This repository contains a Slidev deck for a dharma talk on the ten ox-herding
+paintings.
+
+## Use
+
+Install dependencies:
+
+```sh
+npm install
+```
+
+Run the deck locally:
+
+```sh
+npm run dev
+```
+
+Build a static version:
+
+```sh
+npm run build
+```
+
+## Slide Images
 
 Main deck order:
 
